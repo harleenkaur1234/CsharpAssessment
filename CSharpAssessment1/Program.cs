@@ -4,7 +4,7 @@ class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Please Enter a number to select which program you want to run \n 1 To print a right angle triangle press 1 \n 2 To print table \n 3 print a star pattern \n 4 To calculate the sum of given digits\n ");
+        Console.WriteLine("Please Enter a number to select which program you want to run \n 1 To print a right angle triangle press 1 \n 2 To print table \n 3 Print a star pattern \n 4 To calculate the sum of given digits\n ");
         string userInput = "";
         do
         {
