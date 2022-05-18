@@ -7,7 +7,7 @@ namespace CSharpAssessment1
         {
             Console.WriteLine("Enter a number you want to print a table of  ");
             int num = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter the number till which you want to print the table");
+            Console.Write("Enter the number till which you want to print the table: ");
             int n = Convert.ToInt32(Console.ReadLine());
             Console.Write("Multiplication Table of {0} to {1}", num, n);
             Console.WriteLine();
