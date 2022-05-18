@@ -1,0 +1,15 @@
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\bin\Debug\net6.0\CSharpAssessment1.exe
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\bin\Debug\net6.0\CSharpAssessment1.deps.json
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\bin\Debug\net6.0\CSharpAssessment1.runtimeconfig.json
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\bin\Debug\net6.0\CSharpAssessment1.dll
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\bin\Debug\net6.0\CSharpAssessment1.pdb
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.csproj.AssemblyReference.cache
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.AssemblyInfoInputs.cache
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.AssemblyInfo.cs
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.csproj.CoreCompileInputs.cache
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.dll
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\refint\CSharpAssessment1.dll
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.pdb
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\CSharpAssessment1.genruntimeconfig.cache
+C:\Users\Harleen\source\repos\harleenkaur1234\CsharpAssessment\CSharpAssessment1\obj\Debug\net6.0\ref\CSharpAssessment1.dll
