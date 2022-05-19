@@ -10,21 +10,42 @@ namespace CSharpAssessment1
     {
         public void StarTriangle()
         {
-            Console.Write("Enter number of rows: ");
-            int n = Convert.ToInt32(Console.ReadLine());
-            for (int rows = 0; rows < n; rows++)
-            {
-                for (int space = 1; space < n - rows; space++)
+            try {
+                Console.Write("Enter number of rows: ");
+                int nRows;
+                bool IsNum = Int32.TryParse(Console.ReadLine(), out nRows);
+                if (IsNum)
                 {
-                    Console.Write(' ');
-                }
-                for (int height = 0; height <= rows; height++)
-                {
-                    Console.Write("* ");
-                }
-                Console.WriteLine();
+                    if (nRows > 0)
+                    {
+                        for (int rows = 0; rows < nRows; rows++)
+                        {
+                            for (int space = 1; space < nRows - rows; space++)
+                            {
+                                Console.Write(' ');
+                            }
+                            for (int height = 0; height <= rows; height++)
+                            {
+                                Console.Write("* ");
+                            }
+                            Console.WriteLine();
 
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Rows should be greater than 0");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Please enter valid input");
+                }
+
+            }catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
-        }
+            }
     }
 }

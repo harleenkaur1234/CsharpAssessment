@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harleen\\source\\repos\\harleenkaur1234\\CsharpAssessment\\CSharpAssessment1\\CSharpAssessment1.csproj",
+      "projectUniqueName": "C:\\Users\\Harleen\\Source\\Repos\\CsharpAssessment\\CSharpAssessment1\\CSharpAssessment1.csproj",
       "projectName": "CSharpAssessment1",
-      "projectPath": "C:\\Users\\Harleen\\source\\repos\\harleenkaur1234\\CsharpAssessment\\CSharpAssessment1\\CSharpAssessment1.csproj",
+      "projectPath": "C:\\Users\\Harleen\\Source\\Repos\\CsharpAssessment\\CSharpAssessment1\\CSharpAssessment1.csproj",
       "packagesPath": "C:\\Users\\Harleen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harleen\\source\\repos\\harleenkaur1234\\CsharpAssessment\\CSharpAssessment1\\obj\\",
+      "outputPath": "C:\\Users\\Harleen\\Source\\Repos\\CsharpAssessment\\CSharpAssessment1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harleen\\AppData\\Roaming\\NuGet\\NuGet.Config",
