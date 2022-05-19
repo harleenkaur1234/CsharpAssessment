@@ -38,8 +38,9 @@ namespace CSharpAssessment1
                 {
                     Console.WriteLine("Please enter a valid number");
                 }
-                
-            }catch(Exception e)
+
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message.ToString());
             }

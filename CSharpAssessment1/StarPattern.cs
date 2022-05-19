@@ -10,7 +10,8 @@ namespace CSharpAssessment1
     {
         public void StarTriangle()
         {
-            try {
+            try
+            {
                 Console.Write("Enter number of rows: ");
                 int nRows;
                 bool IsNum = Int32.TryParse(Console.ReadLine(), out nRows);
@@ -42,10 +43,11 @@ namespace CSharpAssessment1
                     Console.WriteLine("Please enter valid input");
                 }
 
-            }catch(Exception e)
+            }
+            catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
-            }
+        }
     }
 }

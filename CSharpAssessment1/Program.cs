@@ -11,7 +11,7 @@ class Program
             do
             {
                 Console.WriteLine("Please Enter a number to select which program you want to run \n 1 To print a right angle triangle press 1 \n 2 To print table \n 3 Print a star pattern \n 4 To calculate the sum of given digits\n ");
-            
+
                 Console.Write("Enter your Choice: ");
                 bool isValid = Int32.TryParse(Console.ReadLine(), out option);
                 if (isValid)
@@ -63,12 +63,11 @@ class Program
                     {
                         Console.WriteLine("Invalid input, please enter YES or NO");
                     }
-                }
-                while (userInput != "YES" && userInput != "NO");
-                Console.Clear();
 
-            } while (option != 1 || option != 2 || option != 3 || option != 4);
-           // Console.Clear();
+
+                } while (userInput != "YES" && userInput != "NO");
+                Console.Clear();
+            } while (option != 1 && option != 2 && option != 3 && option != 4);
         } while (userInput == "YES");
     }
 }
